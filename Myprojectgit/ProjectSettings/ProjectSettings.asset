@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: c7260039a16e8344aa55b53169442c0a
+
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -915,10 +915,7 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: a797c878-1559-4893-a6b6-8e651dad9f87
-  framebufferDepthMemorylessMode: 0
-  qualitySettingsNames: []
-  projectName: Myprojectgit 2025-11-13_23-08-56
+
   organizationId: ayrumin
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
